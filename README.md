@@ -10,7 +10,7 @@ Enemies have the following States in Enemy AI.
 - Die state
 
 [𝐎𝐛𝐣𝐞𝐜𝐭 𝐏𝐨𝐨𝐥𝐢𝐧𝐠]
-- Small enemies and bullets are made available when required using object pooling.
+- Player Bullets are made available when required using object pooling.
 
 [𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫 𝐏𝐚𝐭𝐭𝐞𝐫𝐧]
 OnGameOver, OnGameStart, OnGameWin, OnGameLost etc are some examples of custom events used.
